@@ -1,54 +1,46 @@
-<header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brain Health Resources | California Brain &amp; Spine Institute</title>
+  <meta name="description" content="Explore practical, evidence‑based advice on protecting memory and brain health from California Brain &amp; Spine Institute. Learn how to address brain fog, concussion, and cognitive decline—without surgery.">
+  <link rel="canonical" href="https://californiabrainspine.com/">
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;line-height:1.6;margin:0;color:#333;background:#fafafa}
+    header,footer{background:#004266;color:#fff;text-align:center;padding:1rem 0}
+    main{max-width:800px;margin:auto;padding:2rem}
+    a{color:#0077cc;text-decoration:none}
+    a:hover{text-decoration:underline}
+    .btn{display:inline-block;margin-top:1rem;background:#0077cc;color:#fff;padding:0.6rem 1.2rem;border-radius:4px}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Brain Health Resources</h1>
+    <p>by <a href="https://californiabrainspine.com/" style="color:#fff;text-decoration:underline;" target="_blank" rel="noopener">California Brain &amp; Spine Institute</a></p>
+  </header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+  <main>
+    <h2>Memory Matters: Why Early Action Counts</h2>
+    <p>Misplacing your keys or forgetting a colleague’s name can feel harmless—but recurring lapses may point to underlying issues like concussion, hormonal shifts, or chronic stress. At <strong>California Brain &amp; Spine Institute</strong>, we specialize in restoring clarity through non‑surgical, data‑driven care.</p>
 
-# GitHub Pages
+    <h3>Key Takeaways</h3>
+    <ul>
+      <li><strong>Brain Plasticity Peaks Early:</strong> The first 12 months after noticeable decline are critical for recovery.</li>
+      <li><strong>Most Cases Are Functional:</strong> Over 90% of memory complaints improve with lifestyle‑centered therapies rather than surgery.</li>
+      <li><strong>Whole‑Body Focus:</strong> Nutrition, sleep, stress resilience, and sensorimotor training all influence recall.</li>
+    </ul>
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+    <p>Discover our step‑by‑step, personalized approach to cognitive health:</p>
+    <p><a class="btn" href="https://californiabrainspine.com/services/memory-loss-treatment/" target="_blank" rel="noopener">Evidence‑based Memory Loss Treatment in Calabasas</a></p>
 
-</header>
+    <p>Looking for general brain wellness tips? Visit our homepage to learn more about concussion care, brain fog solutions, and performance optimization.</p>
+    <p><a href="https://californiabrainspine.com/" target="_blank" rel="noopener">California Brain &amp; Spine Institute – Official Site</a></p>
+  </main>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+  <footer>
+    <small>© 2025 California Brain &amp; Spine Institute. All rights reserved.</small>
+  </footer>
+</body>
+</html>
